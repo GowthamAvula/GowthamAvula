@@ -6,16 +6,15 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Avula Gowtham</span></h1>
 
 <p align="center">
-  🚀 <strong>Web Developer </strong> | 🤖 Machine Learning Learner | 💡 Problem Solver  
+  🚀 <strong>Web Developer </strong> | 🤖 <strong>Machine Learning </strong>  | 💡 <strong>Problem Solver</strong>  
 </p>
 
 ---
 
 ## 🧑‍💻 **About Me**
-I am a passionate **Web Development Intern** skilled in building responsive, user-friendly web applications and backend systems.  
-I work with modern web technologies and recently started exploring **Machine Learning models**, data preprocessing, and model evaluation.
+I am a dedicated and motivated student with a strong passion for web development and machine learning. I enjoy building practical solutions, exploring innovative technologies, and continuously improving my skills through hands-on projects. I am open to new opportunities where I can apply my knowledge, collaborate with teams, and contribute to meaningful problem-solving.
 
-I enjoy learning new tools, building projects, solving challenging problems, and contributing to innovative ideas.
+I enjoy building projects, learning new technologies, and solving challenging problems.
 
 ---
 
@@ -38,13 +37,10 @@ I enjoy learning new tools, building projects, solving challenging problems, and
 
 ### **Programming Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
 ### **Machine Learning | Data Science Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
 - Pandas  
 - NumPy  
@@ -54,26 +50,29 @@ I enjoy learning new tools, building projects, solving challenging problems, and
 
 ---
 
-## 🌐 **Connect With Me**
+## 🧩 **Coding Profiles**
+
+<p align="center">
+  <a href="https://leetcode.com/u/gowtham_2714/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/gowtham_1456">
+    <img src="https://www.codechef.com/misc/fb-image-icon.png" width="50">
+  </a>
+</p>
+
+---
+
+## 📬 **Connect With Me**
 
 <p align="center">
   <a href="mailto:avulagowtham76@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="48">
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/avula-gowtham-a8597b2b9/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48">
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/gowtham_2714/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48">
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.codechef.com/users/gowtham_1456">
-    <img src="https://www.codechef.com/misc/fb-image-icon.png" width="48">
   </a>
 </p>
 
