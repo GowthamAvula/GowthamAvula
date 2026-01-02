@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50">Avula Gowtham</span></h1>
 
 <p align="center">
-  🚀 <strong>Web Developer </strong> | 🤖 <strong>Machine Learning </strong>  | 💡 <strong>Problem Solver</strong>  
+  🚀 <strong>Web Developer </strong> | 🤖 <strong>Machine Learning </strong>  | 💡 <strong>Problem Solving</strong>  
 </p>
 
 ---
